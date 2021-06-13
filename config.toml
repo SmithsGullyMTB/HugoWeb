@@ -55,3 +55,4 @@ disableInlineCSS = true
 category = "categories"
 series = "series"
 tag = "tags"
+ignoreErrors = ["error-remote-getjson"]
