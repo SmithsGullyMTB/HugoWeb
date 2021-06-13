@@ -1,0 +1,10 @@
+---
+label: ContentArea
+hide_body: true
+fields:
+- type: text
+  name: header
+  label: header
+- type: text
+  name: content
+  label: content
